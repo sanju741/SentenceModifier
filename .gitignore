@@ -1,0 +1,9 @@
+## Ignore files and folder used by visual studio
+.vs/
+[Bb]in/
+SentenceModifier/obj/
+[Dd]ebug/
+[Rr]elease
+
+##User specific file
+*.user
